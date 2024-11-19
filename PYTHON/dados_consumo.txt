@@ -1,0 +1,8 @@
+Consumo total diário: 6.9 kWh
+
+Sugestões para reduzir o consumo de energia:
+- Tente reduzir o uso do Geladeira, pois consome 1.2 kWh diariamente.
+- Tente reduzir o uso do Ar Condicionado, pois consome 3.5 kWh diariamente.
+
+Análise de energia renovável:
+A energia gerada por fontes renováveis não é suficiente para cobrir o consumo total. Considere aumentar a capacidade ou reduzir o consumo.
